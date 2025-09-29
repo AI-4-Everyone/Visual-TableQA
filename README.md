@@ -12,7 +12,6 @@ Welcome to **Visual-TableQA**, a project designed to generate high-quality **syn
 - [📁 Repository Structure](#-repository-structure)
 - [🔄 Pipeline](#-pipeline)
 - [📦 Setup](#-setup)
-- [📤 Dataset Access](#-dataset-access)
 
 ---
 ## 🚀 Latest Update
@@ -102,10 +101,6 @@ Here are some generated tables:
 ## 📦 Setup
 
 Depending on your objective, you’ll find the relevant setup instructions within the corresponding directory (e.g., Evaluation/, Finetuning/, Generation/)
-
-## 📤 Dataset Access
-You can find the generated dataset hosted on 🤗 Hugging Face:
-**[Visual-TableQA](https://huggingface.co/datasets/AI-4-Everyone/Visual-TableQA)**
 
 ## Aknowledgment
 We want to thank these awesome projects **[InternVL](https://github.com/OpenGVLab/InternVL/tree/main)**, **[MiniCPM-Cookbook](https://github.com/OpenSQZ/MiniCPM-V-CookBook/tree/main)**, **[ROSCOE](https://github.com/facebookresearch/ParlAI/tree/main/projects/roscoe)**, **[ReachQA](https://github.com/hewei2001/ReachQA/tree/main)**
